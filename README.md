@@ -42,7 +42,8 @@ switch2.
 Direct connection: CIRCUIT DIAGRAM: 
 Tabulation:1
 
-![xnor](https://github.com/user-attachments/assets/84ad8a81-f3fd-4d55-a56e-be7b231e36dd)
+![image](https://github.com/user-attachments/assets/f77fc950-0d96-454b-be7a-71c6a3f4a957)
+
 
 Cross connection: CIRCUIT DIAGRAM:
 
